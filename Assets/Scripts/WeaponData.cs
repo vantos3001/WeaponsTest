@@ -4,8 +4,6 @@ public abstract class WeaponData
 {
     public float MinRange;
     public float MaxRange;
-    
-    public float Damage;
 
     public float MaxAmmo;
 
